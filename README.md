@@ -1,23 +1,13 @@
-### Olá 👋
-## Minha Stack
+### Hello There. 
+## 🚀 My Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,js,py,mysql,css,html" />
   </a>
 </p>
-
-<!--
-**ViniFontes73/ViniFontes73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 My GitHub Stats
+<div align="center">
+<img height="180em" src="ViniFontes73" alt="ViniFontes73" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniFontes73&show_icons=true&theme=bear&locale=en" alt="ViniFontes73" />
+</div>
