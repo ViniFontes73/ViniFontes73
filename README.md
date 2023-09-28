@@ -8,6 +8,6 @@
 </p>
 # 📊 My GitHub Stats
 <div align="center">
-<img height="180em" src="ViniFontes73" alt="ViniFontes73" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniFontes73&show_icons=true&locale=en&layout=compact&theme=bear" alt="ViniFontes73" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniFontes73&show_icons=true&theme=bear&locale=en" alt="ViniFontes73" />
 </div>
