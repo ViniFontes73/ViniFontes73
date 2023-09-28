@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá 👋
+## Minha Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,js,py,mysql,css,html" />
+  </a>
+</p>
 
 <!--
 **ViniFontes73/ViniFontes73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
